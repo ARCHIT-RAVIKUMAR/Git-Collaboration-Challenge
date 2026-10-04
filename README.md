@@ -1,2 +1,3 @@
-# Git-Collaboration-Challenge
- Git and GitHub fundamentals
+# Git Collaboration Challenge
+
+Run it with: python hello.py
